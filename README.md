@@ -9,6 +9,9 @@ Changelog: MM/DD/YYYY Updated: 07/27/2025
 - Added error-checks on bootload
 
 
+## On Boot:
+Shows "OK"
+
 
 
 By the way i used this tutorial for the kernel:
