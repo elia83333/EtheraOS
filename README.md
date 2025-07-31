@@ -17,5 +17,4 @@ Shows "OK"
 
 I used [THIS](https://www.youtube.com/watch?v=FkrpUaGThTQ&list=PLZQftyCk7_SeZRitx5MjBKzTtvk0pHMtp) tutorial for the kernel.
 
-
-Will add shield icons later on the README
+I will now remake this kernel using meaty skeletons guide since the yt video is old and doesnt have many instructions. the old kernel from CodePulse will be removed and it is just a practice kernel to learn more how it works.
