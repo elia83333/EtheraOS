@@ -1,3 +1,8 @@
+# This Repository is deprecated and serves as a personal excercise, EtheraOS will be remade into A LFS (Linux From Scratch) Distro using the handbook. 
+
+# THIS OS IS NOT PRODUCTION READY AND MAY HAVE SECURITY ISSUES 
+Also it just shows text on startup so its not really an OS
+
 # 🌐 EtheraOS
 
 **EtheraOS** is a light, debloated and user-friendly OS oriented to daily tasks like school, coding and work. The aim is to create a lightweight and modern environment with pre-configuring essential tools while maintaining it lightweight and modern.
